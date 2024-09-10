@@ -1,0 +1,23 @@
+.Man{
+    width: 100%;
+    height: 70%;
+    top: 789px;
+    padding: 29px 278px 28px 381px;
+    gap: 0px;
+    border: 6px 0px 6px 0px;
+    opacity: 0px;
+    background-color: rgba(54, 95, 163, 1);  
+}
+.M-para{
+    font-size:150%;
+    font-weight: 600;
+    line-height: 50.2px;
+    text-align: center;
+    padding-right: 25%;
+}
+@media(max-width: 768px){
+    .M-para{
+      width: 400%;
+      font-size: 25px;
+    }
+  }
